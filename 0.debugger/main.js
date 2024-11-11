@@ -1,3 +1,4 @@
+
 function main() {
     console.log('Внутри функции main');
     a();
